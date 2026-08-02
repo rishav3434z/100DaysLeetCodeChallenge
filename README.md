@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -1023,4 +1026,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
