@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2396-strictly-palindromic-number) |
 ## Ordered Set
 |  |
