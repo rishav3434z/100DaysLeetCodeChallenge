@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
