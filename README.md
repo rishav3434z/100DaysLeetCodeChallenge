@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0808-soup-servings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0509-fibonacci-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0808-soup-servings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -1060,4 +1062,8 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0478-generate-random-point-in-a-circle) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 <!---LeetCode Topics End-->
