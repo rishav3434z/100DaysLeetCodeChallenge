@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0560-subarray-sum-equals-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0622-design-circular-queue](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0355-design-twitter](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0725-split-linked-list-in-parts](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
+| [0705-design-hashset](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 ## Bit Manipulation
 |  |
