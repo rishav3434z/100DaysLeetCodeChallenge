@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0133-clone-graph](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0126-word-ladder-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -825,12 +828,14 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
@@ -1066,4 +1071,16 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
