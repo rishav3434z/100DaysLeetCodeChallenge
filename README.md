@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2090-k-radius-subarray-averages](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2090-k-radius-subarray-averages) |
 | [2401-longest-nice-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Math
 |  |
 | ------- |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2401-longest-nice-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Recursion
 |  |
 | ------- |
@@ -961,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Union-Find
 |  |
 | ------- |
