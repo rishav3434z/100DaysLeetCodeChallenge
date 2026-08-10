@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2103-rings-and-rods](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2103-rings-and-rods) |
+| [2325-decode-the-message](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
 | [2363-merge-similar-items](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2055-plates-between-candles](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2103-rings-and-rods](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2103-rings-and-rods) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2325-decode-the-message](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
