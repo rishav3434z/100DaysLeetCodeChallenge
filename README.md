@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1381-design-a-stack-with-increment-operation](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1598-crawler-log-folder](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1598-crawler-log-folder) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0997-find-the-town-judge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0299-bulls-and-cows](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1512-number-of-good-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1512-number-of-good-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
