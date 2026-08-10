@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2544-alternating-digit-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2843-count-symmetric-integers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
+| [2928-distribute-candies-among-children-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2928-distribute-candies-among-children-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2427-number-of-common-factors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
 | [2552-count-increasing-quadruplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2552-count-increasing-quadruplets) |
 | [2843-count-symmetric-integers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
+| [2928-distribute-candies-among-children-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Database
 |  |
@@ -1088,4 +1090,8 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2928-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
