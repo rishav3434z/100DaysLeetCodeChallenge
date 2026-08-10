@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1512-number-of-good-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
