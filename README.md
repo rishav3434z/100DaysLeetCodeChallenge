@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1598-crawler-log-folder](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
+| [1656-design-an-ordered-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1656-design-an-ordered-stream) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1656-design-an-ordered-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1656-design-an-ordered-stream) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
+| [1656-design-an-ordered-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1656-design-an-ordered-stream) |
 ## Queue
 |  |
 | ------- |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1656-design-an-ordered-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1656-design-an-ordered-stream) |
 ## Topological Sort
 |  |
 | ------- |
