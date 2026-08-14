@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2810-faulty-keyboard](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3330-find-the-original-typed-string-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3330-find-the-original-typed-string-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2401-longest-nice-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
