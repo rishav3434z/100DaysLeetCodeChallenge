@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1822-sign-of-the-product-of-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2055-plates-between-candles](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2103-rings-and-rods](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2103-rings-and-rods) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
