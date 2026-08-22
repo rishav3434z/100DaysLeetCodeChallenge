@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0523-continuous-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0808-soup-servings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
+| [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0478-generate-random-point-in-a-circle) |
+| [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Counting Sort
 |  |
@@ -1148,4 +1151,8 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2928-distribute-candies-among-children-i) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
