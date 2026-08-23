@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0029-divide-two-integers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0263-ugly-number) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0223-rectangle-area) |
 | [0478-generate-random-point-in-a-circle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0478-generate-random-point-in-a-circle) |
 | [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
