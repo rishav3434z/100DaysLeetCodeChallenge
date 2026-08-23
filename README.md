@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0905-sort-array-by-parity](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1323-maximum-69-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0808-soup-servings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 | [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1155,4 +1159,9 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
+| [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
