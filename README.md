@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2427-number-of-common-factors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0836-rectangle-overlap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Counting Sort
 |  |
 | ------- |
