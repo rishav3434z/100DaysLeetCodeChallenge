@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1833-maximum-ice-cream-bars](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1837-sum-of-digits-in-base-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0258-add-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
@@ -1184,4 +1187,12 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
