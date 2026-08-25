@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3899-angles-of-a-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3899-angles-of-a-triangle) |
 | [3925-concatenate-array-with-reverse](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
+| [3899-angles-of-a-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3899-angles-of-a-triangle) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1115,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1232-check-if-it-is-a-straight-line](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3899-angles-of-a-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3899-angles-of-a-triangle) |
 ## Counting Sort
 |  |
 | ------- |
