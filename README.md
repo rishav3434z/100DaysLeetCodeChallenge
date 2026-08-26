@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0808-soup-servings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 | [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0858-mirror-reflection) |
 | [1952-three-divisors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0478-generate-random-point-in-a-circle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0478-generate-random-point-in-a-circle) |
 | [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0858-mirror-reflection) |
 | [1030-matrix-cells-in-distance-order](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -1205,5 +1208,10 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0858-mirror-reflection) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
